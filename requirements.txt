@@ -1,0 +1,9 @@
+streamlit>=1.38
+mysql-connector-python>=9.0
+paramiko>=3.4
+Pillow>=10.0
+numpy>=1.26
+scikit-learn>=1.4
+python-dotenv>=1.0
+pandas>=2.0
+streamlit-quill>=0.0.3
